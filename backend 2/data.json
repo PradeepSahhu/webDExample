@@ -1,0 +1,242 @@
+[
+    {
+      "_id": "66e410cf06b6afda033cae58",
+      "firstName": "Himanshu",
+      "lastName": "Kumar",
+      "email": "himanshu@gmail.com",
+      "phone": "07015698921",
+      "address": "Flat No. 43A",
+      "city": "Kharar",
+      "__v": 0
+    },
+    {
+      "_id": "66e4135c06b6afda033cae5a",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "__v": 0
+    },
+    {
+      "_id": "66e4180d33670d85e99d89ab",
+      "firstName": "Suman",
+      "lastName": "Kumar",
+      "email": "suman@gmail.com",
+      "phone": "9567891230",
+      "address": "Kharar",
+      "city": "Mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e422bf8e83a6b5e3da0b76",
+      "firstName": "Ashish",
+      "lastName": "Swami",
+      "email": "ashish@yopmail.com",
+      "phone": "9837164964",
+      "address": "Mohali",
+      "city": "mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e4397406e549a4fac35d5c",
+      "firstName": "Sumit",
+      "lastName": "Rana",
+      "email": "sumit@gmail.com",
+      "phone": "7894512300",
+      "address": "Sohana",
+      "city": "MOhali",
+      "__v": 0
+    },
+    {
+      "_id": "66e50ed7e6a4894e5964bc2e",
+      "firstName": "Ashish",
+      "lastName": "Swami",
+      "email": "ashishdevswami@gmail.com",
+      "phone": "09779062208",
+      "address": "4221, sbp cod, sec 116",
+      "city": "mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e51024434054a837f27b76",
+      "firstName": "preeti",
+      "lastName": "sharma",
+      "email": "ashishdevswami@gmail.com",
+      "phone": "09779062208",
+      "address": "Flat no #1105",
+      "city": "mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e55542985407beb7115843",
+      "firstName": "Pradeep Sahu",
+      "lastName": "Sahu",
+      "email": "official.pradeepsahu@gmail.com",
+      "phone": "9599369647",
+      "address": "delhi",
+      "city": "delhi",
+      "__v": 0
+    },
+    {
+      "_id": "66e555d936c35a07e1e1d6da",
+      "firstName": "Shantanu",
+      "lastName": "singh",
+      "email": "sshantanu781@gmail.com",
+      "phone": "7817874878",
+      "address": "Chansigarh university",
+      "city": "Mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e556102688a52c6c34be64",
+      "firstName": "divyanshu",
+      "lastName": "jaiswal",
+      "email": "ansh12jais@gmail.com",
+      "phone": "9118858367",
+      "address": "ksnfjew",
+      "city": "jnsjdfv",
+      "__v": 0
+    },
+    {
+      "_id": "66e556213bd1e3d6bfee425e",
+      "firstName": "Kumar",
+      "lastName": "Devashish",
+      "email": "prinshu1788@gmail.com",
+      "phone": "9986416949",
+      "address": "gharuan, Mohali,punjab",
+      "city": "Mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e556678ddc4fcea2fa1258",
+      "firstName": "Rohit Kumar",
+      "lastName": "Giri",
+      "email": "22BCS10632@g",
+      "phone": "654",
+      "address": "11",
+      "city": "1111",
+      "__v": 0
+    },
+    {
+      "_id": "66e55672ab3e1690955eb6c5",
+      "firstName": "Ashini",
+      "lastName": "L J",
+      "email": "xyz@gmail.com",
+      "phone": "9876543210",
+      "address": "CU",
+      "city": "Mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e557129615e9f1e1b17bd1",
+      "firstName": "Sahil",
+      "lastName": "Phogat",
+      "email": "phogatakshat98@gmail.com",
+      "phone": "9991563344",
+      "address": "Neemriwali (Bhiwani)-127309 , Haryana, Neemriwali | Near BSNL Tower Rupgarh Road , Pani ki Tanki|(Bhiwani)-127309 , Haryana",
+      "city": "BHIWANI",
+      "__v": 0
+    },
+    {
+      "_id": "66e5573e3c207ad46801c1ef",
+      "firstName": "Lavleen",
+      "lastName": ".",
+      "email": "22BCS11203@cuchd.in",
+      "phone": "07657933462",
+      "address": "H. No. 136, Scheme no. 2 ",
+      "city": "Hoshiarpur",
+      "__v": 0
+    },
+    {
+      "_id": "66e5576290c3a52be159c3e8",
+      "firstName": "Gurmehardeep",
+      "lastName": "Singh",
+      "email": "sgurmehardeep@gmail.com",
+      "phone": "9125691257",
+      "address": "Chandigarh University",
+      "city": "kharar",
+      "__v": 0
+    },
+    {
+      "_id": "66e5577a426bdbe923a398b7",
+      "firstName": "A",
+      "lastName": "B",
+      "email": "C@gmail.com",
+      "phone": "123",
+      "address": "CHD",
+      "city": "CHD",
+      "__v": 0
+    },
+    {
+      "_id": "66e557bdb055a02b22d6f33e",
+      "firstName": "Karan",
+      "lastName": "Joshi",
+      "email": "karanjoshi0029@gmail.com",
+      "phone": "1234567890",
+      "address": "GBP",
+      "city": "Kharar",
+      "__v": 0
+    },
+    {
+      "_id": "66e5581090c3a52be159c3eb",
+      "firstName": "Gurmehardeep",
+      "lastName": "Singh",
+      "email": "sgurmehardeep@gmail.com",
+      "phone": "9125691257",
+      "address": "Chandigarh University",
+      "city": "kharar",
+      "__v": 0
+    },
+    {
+      "_id": "66e5584bd02ecdb2ccf79da0",
+      "firstName": "sanjeev",
+      "lastName": "jangir",
+      "email": "sanjeevjangir2611@gmail.com",
+      "phone": "7087694646",
+      "address": "mc coloney",
+      "city": "fazilka",
+      "__v": 0
+    },
+    {
+      "_id": "66e558ce3bd1e3d6bfee4261",
+      "firstName": "Kumar",
+      "lastName": "Devashish",
+      "email": "kumardevashish000@gmail.com",
+      "phone": "8986416949",
+      "address": "gharuan, Mohali,punjab",
+      "city": "Mohali",
+      "__v": 0
+    },
+    {
+      "_id": "66e55a256eb3f6dd37a3d2e2",
+      "firstName": "Tarun",
+      "lastName": "Baliyan",
+      "email": "Tarunbaliyan80@gmail.com",
+      "phone": "8923131171",
+      "address": "House no- 49 wd 649 Garden colony near Bus Stand 49 Garden colony MORINDA",
+      "city": "Morinda",
+      "__v": 0
+    },
+    {
+      "_id": "66e55c0920b3b9a69af8e848",
+      "firstName": "A",
+      "lastName": "B",
+      "email": "C@gmail.com",
+      "phone": "123",
+      "address": "CHD",
+      "city": "CHD",
+      "__v": 0
+    },
+    {
+      "_id": "66e55ee920b3b9a69af8e84f",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "__v": 0
+    }
+  ]
